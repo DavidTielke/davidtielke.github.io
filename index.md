@@ -6,7 +6,7 @@ Als Berater sehe ich jede Woche zahlreiche Projekte aus den unterschiedlichsten 
 ## Worum geht es?
 Ich weiß nicht nicht was hier hin kommt...
 
-![Ein Diagramm](https://www.draw.io/#W949014d0cf0aa9f1%2F949014D0CF0AA9F1!229831)
+![Ein Diagramm](https://www.draw.io/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=Unbenanntes%20Diagramm.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1GuFODf0gTYmxdz49AeqP2Ze3bdGV3Whc%26export%3Ddownload)
 
 # SO funktioniert das also
 also ich muss echt sagen, ich finde das ziemlich cool.!
