@@ -1,3 +1,7 @@
 # Composite Component Architecture
 
-This is the home of the composite component architecture. I try to give u as a visitor a better understanding of my 
+## Abstract
+Als Berater sehe ich jede Woche zahlreiche Projekte aus den unterschiedlichsten Bereichen und Industrieren mit oftmals ähnlichen Problemen: eine nicht ausreichend geplante oder umgesetzte Softwarearchtiektur. Aus diesem Grund habe ich zusammen mit einigen Kunden versucht, eine Archtiektur zu entwerfen, die zum einen sehr einfach erlernt werden kann und auf der anderen seite mächtig genug ist, um nahezu jedes Proejekt umsetzen zu können
+
+## Worum geht es?
+Ich weiß nicht nicht was hier hin kommt...
