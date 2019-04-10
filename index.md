@@ -9,7 +9,7 @@ Ich weiß nicht nicht was hier hin kommt...
 ![Ein Diagramm](./Unbenanntes%20Diagramm.svg)
 
 # SO funktioniert das also
-also ich muss echt sagen, ich finde das ziemlich cool.!
+also ich muss echt sagen, ich finde das ziemlich cool
 
 <ul>
   {% for post in site.posts %}
